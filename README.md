@@ -1,8 +1,13 @@
 👋 Hi, I’m @madhupriyakamuni
+
 👀 I’m passionate about designing and development
+
 🌱 I’m currently learning and building projects in web development
+
 💻 Skilled in Python, HTML, CSS, PHP, SQL, and Figma
+
 🎨 Exploring UI/UX design to enhance user-centered experiences
+
 📫 Reach me at madhupriyakamuni1@gmail.com
 
 
