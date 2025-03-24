@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @madhupriyakamuni
-- 👀 I’m interested in Designing
-- 🌱 I’m currently learning UI/UX
-- 📫 How to reach me madhupriyakamuni1@gmail.com
+👋 Hi, I’m @madhupriyakamuni
+👀 I’m passionate about designing and development
+🌱 I’m currently learning and building projects in web development
+💻 Skilled in Python, HTML, CSS, PHP, SQL, and Figma
+🎨 Exploring UI/UX design to enhance user-centered experiences
+📫 Reach me at madhupriyakamuni1@gmail.com
+
 
 <!---
 madhupriyakamuni/madhupriyakamuni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
